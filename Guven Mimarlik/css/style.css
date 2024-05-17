@@ -1,0 +1,90 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.resimBanner{
+    height: 600px;
+    opacity: 0.9;
+}
+.carousel-inner .carousel-caption{
+    padding-bottom: 170px;
+    
+}
+.carousel-inner .carousel-caption h1{
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+    box-sizing: border-box;
+    border: 3px solid white;
+    background-color: #b39376; 
+    opacity: 0.8; 
+    color: white;
+}
+
+.carousel-inner .carousel-caption h3{
+    color: white;
+    background-color: #b39376;
+    opacity: 0.8;
+    border: 3px solid white;
+    font-family: "Playfair Display", serif;
+    
+}
+
+
+.carousel-inner .carousel-caption button{
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    opacity: 0.9;
+    border: 2px solid gray;
+    text-decoration: none;
+    background: #8fa5a8;
+    color: #fff;
+    text-decoration: none;
+}
+.carousel-inner .carousel-caption button a{
+    text-decoration: none;
+}
+.hak{
+    background-color: rgb(207, 207, 207);
+    font-family: "Playfair Display", serif;
+    color: black;
+    
+}
+.ekip{
+    background-color: #f0dddd;
+    font-family: "Playfair Display", serif;
+}
+.ibeyaz{
+    color: black;
+    top: -60px;
+    font-size: 40px;
+    position: relative;
+}
+.igri{
+    color: #343a40;
+    position: relative;
+    top: -60px;
+    font-size: 40px;
+}
+.proje{
+    position: relative;
+    top: -60px;
+    font-size: 20px;
+    font-family: "Playfair Display", serif;
+    text-decoration: none;
+    background-color: #cfd4ff;
+}
+.iletisim{
+    position: relative;
+    top: -60px;
+    font-family: "Playfair Display", serif;
+    background-color: rgb(184, 184, 184);
+}
+
